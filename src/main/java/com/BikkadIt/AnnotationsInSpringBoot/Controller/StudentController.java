@@ -18,5 +18,13 @@ public class StudentController {
 		return stu;
 		
 	}
-	
+	private Student Controller(){
+
+return stu;
+}
+
+private Student Controller(){
+
+return stu;
+}
 }
