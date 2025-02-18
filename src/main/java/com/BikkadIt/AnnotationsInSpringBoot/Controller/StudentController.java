@@ -18,7 +18,12 @@ public class StudentController {
 		return stu;
 		
 	}
+<<<<<<< HEAD
 	private Student Controller(){
+=======
+	
+private Student Controller(){
+>>>>>>> 81d2c1c (this is demo file and other commit)
 
 return stu;
 }
@@ -27,4 +32,10 @@ private Student Controller(){
 
 return stu;
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 81d2c1c (this is demo file and other commit)
 }
